@@ -4,7 +4,7 @@
 
 # About
 
-Use the Sightengine Moderation API to instantly moderate images and videos. See http://sightengine.com for more information.
+Use the Sightengine Moderation API to instantly moderate images and videos. See https://sightengine.com for more information.
 
 Before starting, please make sure you have created an account on https://sightengine.com
 
